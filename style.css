@@ -1,0 +1,13 @@
+#container {
+    background-color: yellow;
+    border: 2px solid black;
+    width: 700px;
+    height: 400px;
+    overflow: hidden;
+}
+
+#thing {
+    position: relative;
+    left: 50px;
+    top: 25px;
+}
